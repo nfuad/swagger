@@ -22,7 +22,6 @@
 * **Status:** Passed
 * **Priority:** High
 * **Severity:** Major
-* **Attachment:** ***
 
 ---
 
@@ -39,7 +38,6 @@
 * **Status:** Passed
 * **Priority:** High
 * **Severity:** Major
-* **Attachment:** ***
 
 ---
 
@@ -64,7 +62,6 @@
 * **Status:** Passed
 * **Priority:** High
 * **Severity:** Major
-* **Attachment:** ***
 
 <br>
 
@@ -90,7 +87,6 @@
 * **Status:** Passed
 * **Priority:** High
 * **Severity:** Major
-* **Attachment:** ***
 
 ---
 
@@ -107,4 +103,3 @@
 * **Status:** Passed
 * **Priority:** High
 * **Severity:** Major
-* **Attachment:** ***
